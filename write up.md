@@ -19,6 +19,8 @@ America’s pastime is full of deep data and measurable trends.  The dataset ana
 
 + Line graphs could also work for this as they can show more trend data than a histogram is capable of.  I will likely include at least one to show the visual difference.
 
++ Photos for both the initial sketch and design discussions are located here:
+https://github.com/DrGrizzleMD/DataVisualizationBaseball
 
 ### Feedback:
 
