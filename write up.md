@@ -2,10 +2,10 @@
 ## A look at Baseball
 
 Baseball Project Version one:
-https://github.com/DrGrizzleMD/DataVisualizationBaseball/blob/master/Baseball%20Project%20V1.twbx
+https://public.tableau.com/views/BaseballProjectV1_15785084204090/ABaseballStory?:display_count=y&publish=yes&:origin=viz_share_link
 
 Baseball Project Final Version:
-https://github.com/DrGrizzleMD/DataVisualizationBaseball/blob/master/Baseball%20Project%20Final.twbx
+https://public.tableau.com/shared/DKY8446NQ?:display_count=y&:origin=viz_share_link
 
 
 ### Summary:
