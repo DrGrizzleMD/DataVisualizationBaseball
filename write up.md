@@ -1,10 +1,10 @@
 # Data Visualization Project 
 ## A look at Baseball
 
-Baseball Project Version one:
+Baseball Project Version one:</br>
 https://public.tableau.com/views/BaseballProjectV1_15785084204090/ABaseballStory?:display_count=y&publish=yes&:origin=viz_share_link
 
-Baseball Project Final Version:
+Baseball Project Final Version:</br>
 https://public.tableau.com/shared/DKY8446NQ?:display_count=y&:origin=viz_share_link
 
 
